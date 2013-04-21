@@ -19,7 +19,7 @@ The plugin was developed and tested with Xcode 4.2.1.
 
 5. Activate "Show tab" and set the tab name "XcodeAutoCloseDebug" (this exact name is important!)
 
-![Screenshot](XcodeAutoCloseDebug/raw/master/SetupScreenshot.png)
+![Screenshot](XcodeAutoCloseDebug/master/SetupScreenshot.png)
 
 6. Run the executable and detach the debugger window (drag the tab out of Xcode to create an own window).
 
